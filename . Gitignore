@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Python (if you add scripts later)
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# General
+*.log
+*.tmp
+*.bak
+
+# Data processing outputs (if applicable)
+*.csv.bak
+output/
+dist/
+build/
